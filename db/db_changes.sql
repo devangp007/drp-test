@@ -1,3 +1,4 @@
+--this is drpt2 table
 create table drpt2
 (
 id int identity(1,1),
